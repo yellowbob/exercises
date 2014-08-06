@@ -1,3 +1,5 @@
+#work in progress for a class
+
 def datIsBefore(year1, month1, day1, year2, month2, day2):
 	if year1 < year2:
 		return True
